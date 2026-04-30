@@ -1,0 +1,8 @@
+openai-whisper
+google-generativeai
+gTTS
+soundfile
+sounddevice
+numpy
+pydub
+IPython
